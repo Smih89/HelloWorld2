@@ -1,0 +1,15 @@
+F:\Repo\Examples\Ex004\bin\MCD\Debug\net6.0\Ex004.exe
+F:\Repo\Examples\Ex004\bin\MCD\Debug\net6.0\Ex004.deps.json
+F:\Repo\Examples\Ex004\bin\MCD\Debug\net6.0\Ex004.runtimeconfig.json
+F:\Repo\Examples\Ex004\bin\MCD\Debug\net6.0\Ex004.dll
+F:\Repo\Examples\Ex004\bin\MCD\Debug\net6.0\Ex004.pdb
+F:\Repo\Examples\Ex004\obj\MCD\Debug\net6.0\Ex004.csproj.AssemblyReference.cache
+F:\Repo\Examples\Ex004\obj\MCD\Debug\net6.0\Ex004.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repo\Examples\Ex004\obj\MCD\Debug\net6.0\Ex004.AssemblyInfoInputs.cache
+F:\Repo\Examples\Ex004\obj\MCD\Debug\net6.0\Ex004.AssemblyInfo.cs
+F:\Repo\Examples\Ex004\obj\MCD\Debug\net6.0\Ex004.csproj.CoreCompileInputs.cache
+F:\Repo\Examples\Ex004\obj\MCD\Debug\net6.0\Ex004.dll
+F:\Repo\Examples\Ex004\obj\MCD\Debug\net6.0\refint\Ex004.dll
+F:\Repo\Examples\Ex004\obj\MCD\Debug\net6.0\Ex004.pdb
+F:\Repo\Examples\Ex004\obj\MCD\Debug\net6.0\Ex004.genruntimeconfig.cache
+F:\Repo\Examples\Ex004\obj\MCD\Debug\net6.0\ref\Ex004.dll
